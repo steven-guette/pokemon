@@ -1,0 +1,5 @@
+{"name": "pikachu", "type": "electric", "hp": 100, "defense": 0, "attack": 10}
+{"name": "salameche", "type": "fire", "hp": 100, "defense": 0, "attack": 10}
+{"name": "carapuce", "type": "water", "hp": 100, "defense": 0, "attack": 10}
+{"name": "bulbizarre", "type": "grass", "hp": 100, "defense": 0, "attack": 10}
+{"name": "miaouss", "type": "normal", "hp": 100, "defense": 0, "attack": 10}
